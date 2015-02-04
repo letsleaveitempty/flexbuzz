@@ -33,18 +33,6 @@ So a few notes.  FlexBuzz:
  4. provides proper failover with recovery and adjustable timeouts
 
 
-Supported Ruby versions and implementations
-------------------------------------------------
-
-FlexBuzz should work identically on:
-
- * JRuby 1.6+
- * Ruby 1.9.2+
- * Ruby 1.8.7+
- * Rubinius 2.0
-
-If you have problems, please enter an issue.
-
 
 Installation and Usage
 ------------------------
