@@ -10,9 +10,9 @@ Usage
 
 Use Node.js to run flexbuzz.js:
 
-$ node.js flexbuzz.js
+$ node.js flexbuzz.js [limit]
 
-
+where limit defines how many you want to print. Default is 100.
 
 Design
 ------------
