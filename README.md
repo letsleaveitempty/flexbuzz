@@ -150,7 +150,6 @@ socket.
 
 Note that FlexBuzz does not require ActiveSupport or Rails.  You can safely use it in your own Ruby projects.
 
-![View the API](http://www.ruby-doc.org/gems/docs/d/FlexBuzz-2.5.0/FlexBuzz/Client.html)
 
 Helping Out
 -------------
