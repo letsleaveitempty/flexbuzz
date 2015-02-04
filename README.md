@@ -1,11 +1,7 @@
-FlexBuzz [![Build Status](https://secure.travis-ci.org/mperham/dalli.dalli)](http://travis-ci.org/mperham/dalli) [![Dependency Status](https://gemnasium.com/mperham/FlexBuzz.png)](https://gemnasium.com/mperham/dalli)
-=====
+FlexBuzz [![Build Status](https://secure.travis-ci.org/mperham/dalli.png)](http://travis-ci.org/mperham/dalli) [![Dependency Status](https://gemnasium.com/mperham/dalli.png)](https://gemnasium.com/mperham/dalli)
+========
 
 FlexBuzz is a high performance pure Javascript implementation of the FizzBuzz algorithm  It should be considered a replacement for the fizzbuzz package.
-
-The name is a variant of
-
-![Persistence of Memory](http://www.virtualdali.com/assets/paintings/31PersistenceOfMemory.jpg)
 
 FlexBuzz's initial development was sponsored by [CouchBase](http://www.couchbase.com/).  Many thanks to them!
 
