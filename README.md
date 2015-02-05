@@ -8,11 +8,11 @@ FlexBuzz's initial development was sponsored by [CouchBase](http://www.couchbase
 Usage
 ------------
 
-Use Node.js to run flexbuzz.js:
+Use [Node.js](http://nodejs.org) to run flexbuzz.js:
 
-$ node.js flexbuzz.js [limit]
+    $ node flexbuzz.js [limit]
 
-where the optional [limit] parameter says how many numbers you want to print. Default is 100 for compatibility.
+where the optional `[limit]` parameter says how many numbers you want to print. Default is 100 for compatibility.
 
 Design
 ------------
