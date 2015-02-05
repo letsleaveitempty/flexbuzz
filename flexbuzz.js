@@ -2,7 +2,7 @@
 
 var limit = (process.argv.length == 3) ? parseInt(process.argv[2]) : 100;
 
-for(var i = 1; i < limit; i++) {
+for (var i = 1; i <= limit; i++) {
   if (i % 3 == 0 && i % 5 == 0) {
     console.log("FizzBuzz");
   } else if (i % 3 == 0) {
